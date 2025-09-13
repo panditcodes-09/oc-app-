@@ -6,6 +6,7 @@
 
 canvas {
   cursor: crosshair;
+  touch-action: none; /* Prevent scrolling while drawing */
 }
 
 button {
